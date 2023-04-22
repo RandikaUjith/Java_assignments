@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=GUIComponents
+comment0.text=\r\n\ This\ class\ is\ to\ create\ some\ GUI\ components\ with\ their\ attributes\r\n
+comment1.params=
+comment1.target=GUIComponents()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ GUIComponents\r\n
+comment2.params=s
+comment2.target=javax.swing.JButton\ makeButton(java.lang.String)
+comment2.text=\r\n\ Creating\ the\ game\ cell\ using\ JButton\ and\ assigning\ required\ attributes\ to\ it\r\n
+comment3.params=s
+comment3.target=javax.swing.JTextPane\ makeTextPane(boolean)
+comment3.text=\r\n\ Creating\ a\ display\ area\ to\ display\ game\ pattern\ data\ for\ rows\ and\ columns\ using\ JTextPane\ and\ assigning\ required\ attributes\ to\ it\r\n
+numComments=4

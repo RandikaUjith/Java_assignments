@@ -1,0 +1,6 @@
+#BlueJ class context
+comment0.target=HelpPopUp
+comment0.text=\r\n\ This\ class\ is\ to\ create\ a\ popup\ window\ to\ display\ a\ help\ instructions\ to\ the\ user\ when\ user\ clicks\ 'Help'\ button\r\n
+comment1.params=
+comment1.target=HelpPopUp()
+numComments=2

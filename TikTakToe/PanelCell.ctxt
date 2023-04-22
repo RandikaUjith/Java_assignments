@@ -1,0 +1,8 @@
+#BlueJ class context
+comment0.target=PanelCell
+comment0.text=\r\n\ Main\ function\ of\ this\ PanelCell\ class\ is\ to\ create\ a\ genaral\ Button\ cell\ for\ the\ game\r\n\ which\ can\ be\ used\ in\ the\ TiKtakToePanel\ class\ to\ create\ the\ GUI\ of\ the\ game\r\n\ @author\ (Randika\ Ujith\ -\ w22037955)\r\n
+comment1.params=
+comment1.target=PanelCell()
+comment2.params=s
+comment2.target=javax.swing.JButton\ makeButton(java.lang.String)
+numComments=3
